@@ -2,6 +2,10 @@ body {
   text-align: center;
 }
 
+h1, h2 {
+  font-family: 'Ribeye', cursive;
+}
+
 h2 {
   margin-bottom: -30px;
 }
